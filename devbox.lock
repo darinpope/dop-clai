@@ -1,0 +1,149 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "glow@1.5.1": {
+      "last_modified": "2024-06-12T20:55:33Z",
+      "resolved": "github:NixOS/nixpkgs/a9858885e197f984d92d7fe64e9fff6b2e488d40#glow",
+      "source": "devbox-search",
+      "version": "1.5.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0wr83ym3w378pbjz12b78zzx72lvsjhn-glow-1.5.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/0wr83ym3w378pbjz12b78zzx72lvsjhn-glow-1.5.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zwb8924x29z6waf32f132hr2y3angjp4-glow-1.5.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zwb8924x29z6waf32f132hr2y3angjp4-glow-1.5.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d0n7wmdxx4viz5hmi0kq6bv45ihrf74d-glow-1.5.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/d0n7wmdxx4viz5hmi0kq6bv45ihrf74d-glow-1.5.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9x00jj75l4nwp15n57aqq4r2700fjwxi-glow-1.5.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9x00jj75l4nwp15n57aqq4r2700fjwxi-glow-1.5.1"
+        }
+      }
+    },
+    "go@1.22.3": {
+      "last_modified": "2024-06-12T20:55:33Z",
+      "resolved": "github:NixOS/nixpkgs/a9858885e197f984d92d7fe64e9fff6b2e488d40#go",
+      "source": "devbox-search",
+      "version": "1.22.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/m4ip3yyqg4k2pilbyfczgiy8xqvh4554-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/m4ip3yyqg4k2pilbyfczgiy8xqvh4554-go-1.22.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/iz2bp36nbgp2l7day14186nmw2v4v0qg-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/iz2bp36nbgp2l7day14186nmw2v4v0qg-go-1.22.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gl1vr9lznqg5zv2f0bvh0q469k82mjz0-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gl1vr9lznqg5zv2f0bvh0q469k82mjz0-go-1.22.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vz8d6wmfcf38l3h3vymwqr6c5zxp5jmp-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vz8d6wmfcf38l3h3vymwqr6c5zxp5jmp-go-1.22.3"
+        }
+      }
+    },
+    "teller@1.5.6": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#teller",
+      "source": "devbox-search",
+      "version": "1.5.6",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/csinic7gd7ln27bys5m3lhr3nr0wqwc1-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/csinic7gd7ln27bys5m3lhr3nr0wqwc1-teller-1.5.6"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v6zv4xvvc29l8ny86hkir7bzgafwgi4v-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/v6zv4xvvc29l8ny86hkir7bzgafwgi4v-teller-1.5.6"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q5k0fb4bwi1v64rsjy2kdlbh8h51b8kl-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/q5k0fb4bwi1v64rsjy2kdlbh8h51b8kl-teller-1.5.6"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/2r6xiywzp38nbw6vay8r4y6fy2wn2d27-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/2r6xiywzp38nbw6vay8r4y6fy2wn2d27-teller-1.5.6"
+        }
+      }
+    }
+  }
+}

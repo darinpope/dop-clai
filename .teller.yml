@@ -1,0 +1,11 @@
+
+project: dop-clai
+providers:
+  dotenv:
+    env:
+      OPENAI_API_KEY:
+        path: .env
+      MISTRAL_API_KEY:
+        path: .env
+      ANTHROPIC_API_KEY:
+        path: .env
